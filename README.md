@@ -8,10 +8,10 @@
 
 ## 🛠️ Skills 🚀
 
-- **💻 Programming Languages**: TypeScript / HTML5 / CSS3 / Node.js / C# / Python / Java / Dart  
-- **📚 Libraries & Frameworks**: React / RedwoodJS / Flutter / Vue.js / Next.js / .NET  
-- **☁️ Cloud**: AWS Certified Solutions Architect - Professional  
-- **🗄️ Databases**: PostgreSQL / MongoDB / MySQL  
+\- **💻 Programming Languages**: TypeScript / HTML5 / CSS3 / Node.js / C# / Python / Java / Dart  
+\- **📚 Libraries & Frameworks**: React / RedwoodJS / Flutter / Vue.js / Next.js / .NET  
+\- **☁️ Cloud**: AWS Certified Solutions Architect - Professional  
+\- **🗄️ Databases**: PostgreSQL / MongoDB / MySQL  
 
 ---
 
