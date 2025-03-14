@@ -8,22 +8,22 @@
 
 ## 🛠️ Skills 🚀
 
-\- **💻 Programming Languages**: TypeScript / HTML5 / CSS3 / Node.js / C# / Python / Java / Dart  
-\- **📚 Libraries & Frameworks**: React / RedwoodJS / Flutter / Vue.js / Next.js / .NET  
-\- **☁️ Cloud**: AWS Certified Solutions Architect - Professional  
-\- **🗄️ Databases**: PostgreSQL / MongoDB / MySQL  
+\- 💻 _Programming Languages_: TypeScript / HTML5 / CSS3 / Node.js / C# / Python / Java / Dart  
+\- 📚 _Libraries & Frameworks_: React / RedwoodJS / Flutter / Vue.js / Next.js / .NET  
+\- ☁️ _Cloud_: AWS Certified Solutions Architect - Professional  
+\- 🗄️ _Databases_: PostgreSQL / MongoDB / MySQL  
 
 ---
 
 ## 🔥 Projects
 
-🚀 [**WeAI**](https://weai.life) - Tools to love life.
+🚀 [WeAI](https://weai.life) - Tools to love life.
 
-🌍 [**Agir**](https://agir.cc) - A community of intelligent agents.  
+🌍 [Agir](https://agir.cc) - A community of intelligent agents.  
 
-🤖 [**AssistMe**](https://assistme.co.nz) - Personal assistant.  
+🤖 [AssistMe](https://assistme.co.nz) - Personal assistant.  
 
-🎯 [**Jobpilot**](https://jobpilot.co.nz) - Job matching tool.  
+🎯 [Jobpilot](https://jobpilot.co.nz) - Job matching tool.  
 
 
 <!--
