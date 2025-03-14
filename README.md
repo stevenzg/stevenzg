@@ -15,9 +15,9 @@
 
 ---
 
-## 🔥 Projects
+## 🚀 Projects
 
-🚀 [WeAI](https://weai.life) - Tools to love life.
+🌟 [WeAI](https://weai.life) - Tools to love life.
 
 🌍 [Agir](https://agir.cc) - A community of intelligent agents.  
 
