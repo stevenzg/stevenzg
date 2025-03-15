@@ -10,6 +10,7 @@
 
 \- 💻 _Programming Languages_: TypeScript / HTML5 / CSS3 / Node.js / C# / Python / Java / Dart  
 \- 📚 _Libraries & Frameworks_: React / Next.js / RedwoodJS / Flutter / .NET / Vue.js
+
 \- ☁️ _Cloud_: AWS Certified Solutions Architect - Professional  
 \- 🗄️ _Databases_: PostgreSQL / MongoDB / MySQL  
 
