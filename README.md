@@ -13,7 +13,7 @@
 
 \- 🤖 _AI Applications_: Scenario-Based Simulation / Assistants for Local Business / Agentic Agents
 
-\- 💻 _Programming Language_: TypeScript / Node.js / Python / C# / Java / Dart / HTML5 / CSS3 /
+\- 💻 _Programming Language_: TypeScript / Node.js / Python / C# / Java / Dart / HTML5 / CSS3
 
 \- 📚 _Library & Framework_: React / Next.js / FastAPI / .NET / RedwoodJS / Flutter / Vue.js
 
