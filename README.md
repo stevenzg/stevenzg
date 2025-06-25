@@ -9,7 +9,7 @@
 ## 🛠️ Skills
 \- 🤖 _AI Techniques_: Reinforcement Learning / RAG / Fine-Tuning / In-Context Learning
 
-\- 🤖 _AI Tools_: LangChain / Qdrant / OpenAI APIs / Ollama / n8n
+\- 🤖 _AI Tools_: LangChain / OpenAI APIs / Ollama / n8n
 
 \- 🤖 _AI Applications_: Scenario-Based Simulation / Assistants for Local Business / Agentic Agents
 
@@ -19,7 +19,7 @@
 
 \- ☁️ _Cloud_: AWS Certified Solutions Architect - Professional / Azure
 
-\- ☁️ _Database_: PostgreSQL / MongoDB / MySQL
+\- ☁️ _Database_: PostgreSQL / Qdrant / MongoDB / MySQL
 
 ---
 
