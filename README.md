@@ -8,11 +8,17 @@
 
 ## 🛠️ Skills
 \- 🤖 _AI Techniques_: Reinforcement Learning / RAG / Fine-Tuning / In-Context Learning / Classic Knowledge Representation / Classic Reasoning / Classic Planning
+
 \- 🤖 _AI Tools_: LangChain / Qdrant / OpenAI APIs / Ollama / n8n
+
 \- 🤖 _AI Applications_: Scenario-Based Simulation / Assistants for Local Business / Agentic Agents
+
 \- 💻 _Programming Language_: TypeScript / Node.js / Python / C# / Java / Dart / HTML5 / CSS3 /
+
 \- 📚 _Library & Framework_: React / Next.js / FastAPI / .NET / RedwoodJS / Flutter / Vue.js
+
 \- ☁️ _Cloud_: AWS Certified Solutions Architect - Professional / Azure
+
 \- ☁️ _Database_: PostgreSQL / MongoDB / MySQL
 
 ---
