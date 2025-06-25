@@ -7,7 +7,7 @@
 ---
 
 ## 🛠️ Skills
-\- 🤖 _AI Techniques_: Reinforcement Learning / RAG / Fine-Tuning / In-Context Learning / Classic Knowledge Representation / Classic Reasoning / Classic Planning
+\- 🤖 _AI Techniques_: Reinforcement Learning / RAG / Fine-Tuning / In-Context Learning
 
 \- 🤖 _AI Tools_: LangChain / Qdrant / OpenAI APIs / Ollama / n8n
 
